@@ -1,2 +1,5 @@
-# csd-380
-CSD 380 DevOps assignments
+# CSD 380 DevOps
+
+## Contributors
+- Instructor: Prof. John Woods
+- Student: Tazmin Somerville
